@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi — I’m [Your Name]
+# Hi — I’m Russell
 
 I’m building and studying AI systems that work in high-trust human contexts.
 
